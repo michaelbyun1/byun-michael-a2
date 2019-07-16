@@ -1,0 +1,111 @@
+body {
+    background-color: #add8e6;
+    color: #ffffff;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+
+    line-height: 1.8em;
+}
+
+.intro{
+    background-color: #00008b;
+    color: #ffffff;
+    width: 500px;
+    margin: auto;
+    font-size: 28px;
+    text-align: center;
+    border: 5px #000000;
+    border-width: 10px;
+    border-style: double;
+}
+
+a{
+    color: #000000;
+}
+
+a:hover{
+    color: #ff0000;
+}
+
+a:active{
+    color: #ffa500;
+}
+
+.button{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.intro-paragraph{
+    background-color: #00008b;
+    color: #ffffff;
+}
+
+.container-1{
+    background-color: #ff0000;
+    color: #ffffff;
+}
+
+.title-1{
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+.assets-1{
+    text-decoration: underline;
+}
+
+.container-2{
+    background-color: #d3d3d3;
+    color: #000000;
+}
+
+.title-2{
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+.assets-2{
+    text-decoration: underline;
+}
+
+.container-3{
+    background-color: #008000;
+    color: #ffffff;
+}
+
+.title-3{
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+.assets-3{
+    text-decoration: underline;
+}
+
+.personal-thoughts{
+    background-color: #00008b;
+    color: #ffffff;
+}
+
+.final{
+    background-color: #d3d3d3;
+    color: #000000;
+}
+
+.form-1 label{
+    display: block;
+}
+
+.form-1 input{
+    padding: 10px;
+    width: 100%;
+}
+
+.form-2 textarea{
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+}
